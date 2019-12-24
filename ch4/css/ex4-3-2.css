@@ -1,0 +1,20 @@
+div {
+    height: 500px;
+    width: 400px;
+    border: 1px red solid;
+    margin-bottom: 40px;
+}
+
+#bg3 {
+    background-image: url('../img/bg3.png');
+    background-size: 100px 150px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#bg4 {
+    background-image: url('../img/bg3.png');
+    background-size: 100px 150px;
+    background-repeat: no-repeat;
+    background-position: 30% 40%;
+}

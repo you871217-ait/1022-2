@@ -1,0 +1,20 @@
+div {
+    height: 200px;
+    width: 150px;
+    border: 1px red solid;
+    margin-bottom: 40px;
+}
+
+#bg5 {
+    background-image: url('../img/bg3.png'), url('../img/bg2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#bg6 {
+    background-image: url('../img/bg3.png'), url('../img/bg2.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
